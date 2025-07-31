@@ -15,7 +15,7 @@
 ## Teknologi yang Digunakan
 - Vue.js (Versi 3): Framework frontend JavaScript untuk membangun antarmuka pengguna.
 - Vue Router: Digunakan untuk navigasi antar halaman aplikasi.
-- JSONPlaceholder API: Menyediakan data komentar yang digunakan untuk tabel (https://jsonplaceholder.typicode.com/posts).
+- JSONPlaceholder API: Menyediakan data komentar yang digunakan untuk tabel.
 
 ## Instalasi
 - git clone https://github.com/Nurfikriihsan/Web-Developer-Internship.git
