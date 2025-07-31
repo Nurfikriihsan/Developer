@@ -18,7 +18,7 @@
 - JSONPlaceholder API: Menyediakan data komentar yang digunakan untuk tabel.
 
 ## Instalasi
-- git clone (https://github.com/Nurfikriihsan/Developer.git)
-- cd Web-Developer-Internship
+- git clone https://github.com/Nurfikriihsan/Developer.git
+- cd Developer
 - npm install
 - npm run dev
